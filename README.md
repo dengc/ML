@@ -1,8 +1,6 @@
 # Machine Learning
 
 
-
-
 -------------------
 
 [TOC]
